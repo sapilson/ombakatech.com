@@ -1,2 +1,2 @@
-# ombakatech.com
+# ombakatech.org
 Landing Page for Ombaka
